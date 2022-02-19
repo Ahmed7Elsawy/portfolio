@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'News App'
-cover: './news1.png'
+cover: './news.png'
 github: 'https://github.com/Ahmed7Elsawy/News.git'
 external: 'https://youtu.be/9meZdCf9agw'
 tech:

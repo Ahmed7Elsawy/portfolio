@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Smart and IOT-Based Locker'
-cover: './lock.p'
+cover: './lock.png'
 github: 'https://github.com/Ahmed7Elsawy/Smart-and-IOT-Based-Locker.git'
 external: 'https://youtu.be/MZ3s67nlfhM'
 tech:

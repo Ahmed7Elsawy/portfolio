@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Ask.fm Clone'
-cover: './ask1.png'
+cover: './ask.png'
 github: 'https://github.com/Ahmed7Elsawy/SQLAskProject.git'
 external: 'https://youtu.be/zrgPSCFMTOA'
 tech:
