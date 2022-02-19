@@ -5,9 +5,9 @@ module.exports = {
     title: 'Ahmed Elsawy',
     description:
       'Ahmed Elsawy is a software engineer specializing in building Android Applications and Google Certified Associate Android Developer.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://portfoliomaster38151.gatsbyjs.io/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'AhmedElsawy',
+        short_name: 'AhmedElsawy',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
